@@ -1,0 +1,580 @@
+{
+  "Pad": {
+    "TotalYcCount": 0,
+    "TotalYxCount": 0,
+    "TotalYkCount": 0,
+    "TotalDDCount": 0,
+    "TotalParameterCount": 0,
+    "YcRatioEnable": 1,
+    "RecordingYkOpera": 0,
+    "LinkAddr": 1,
+    "SingleORDoubleInit": 0,
+    "LinkAddrLen": 2,
+    "VsqLen": 1,
+    "coTlen": 2,
+    "AsduLen": 2,
+    "InfoAddrLen": 2,
+    "YxType": 1,
+    "YcType": 13,
+    "DdType": 206,
+    "YkType": 45,
+    "T0TimeOut": 30,
+    "T1TimeOut": 30,
+    "T2TimeOut": 12,
+    "T3TimeOut": 100,
+    "k": 12,
+    "w": 8,
+    "baseyear": 2000,
+    "alldatainterval": 0,
+    "allddinterval": 0,
+    "setclockinterval": 0,
+    "testlinkinterval": 0,
+    "encrypt": 0,
+    "sendcos": 1,
+    "BackScan": 0,
+    "ThreadAfterSndDelayms": 100,
+    "ThreadAfterRcvDelayms": 100
+  },
+  "ParaInstruction": "v0.1运用园区",
+  "Para": [
+    {
+      "SN": 0,
+      "Running_info": [
+        {
+          "No": 1,
+          "Addr": 32800,
+          "Desc": "104参数设置函数",
+          "Unit": "float4字节",
+          "Type": 38,
+          "MapAddr": 14
+        },
+        {
+          "No": 2,
+          "Addr": 32801,
+          "Desc": "104参数设置函数",
+          "Unit": "float4字节",
+          "Type": 38,
+          "MapAddr": 14
+        },
+        {
+          "No": 3,
+          "Addr": 32802,
+          "Desc": "",
+          "Unit": "",
+          "Type": 0,
+          "MapAddr": 0
+        },
+        {
+          "No": 4,
+          "Addr": 32803,
+          "Desc": "",
+          "Unit": "",
+          "Type": 0,
+          "MapAddr": 0
+        },
+        {
+          "No": 5,
+          "Addr": 32804,
+          "Desc": "",
+          "Unit": "",
+          "Type": 0,
+          "MapAddr": 0
+        },
+        {
+          "No": 6,
+          "Addr": 32805,
+          "Desc": "",
+          "Unit": "",
+          "Type": 0,
+          "MapAddr": 0
+        },
+        {
+          "No": 7,
+          "Addr": 32806,
+          "Desc": "",
+          "Unit": "",
+          "Type": 0,
+          "MapAddr": 0
+        },
+        {
+          "No": 8,
+          "Addr": 32807,
+          "Desc": "",
+          "Unit": "",
+          "Type": 0,
+          "MapAddr": 0
+        },
+        {
+          "No": 9,
+          "Addr": 32808,
+          "Desc": "",
+          "Unit": "",
+          "Type": 0,
+          "MapAddr": 0
+        },
+        {
+          "No": 10,
+          "Addr": 32809,
+          "Desc": "",
+          "Unit": "",
+          "Type": 0,
+          "MapAddr": 0
+        },
+        {
+          "No": 11,
+          "Addr": 32810,
+          "Desc": "",
+          "Unit": "",
+          "Type": 0,
+          "MapAddr": 0
+        },
+        {
+          "No": 12,
+          "Addr": 32811,
+          "Desc": "",
+          "Unit": "",
+          "Type": 0,
+          "MapAddr": 0
+        },
+        {
+          "No": 13,
+          "Addr": 32812,
+          "Desc": "",
+          "Unit": "",
+          "Type": 0,
+          "MapAddr": 0
+        },
+        {
+          "No": 14,
+          "Addr": 32813,
+          "Desc": "",
+          "Unit": "",
+          "Type": 0,
+          "MapAddr": 0
+        },
+        {
+          "No": 15,
+          "Addr": 32814,
+          "Desc": "",
+          "Unit": "",
+          "Type": 0,
+          "MapAddr": 0
+        },
+        {
+          "No": 16,
+          "Addr": 32815,
+          "Desc": "",
+          "Unit": "",
+          "Type": 0,
+          "MapAddr": 0
+        },
+        {
+          "No": 17,
+          "Addr": 32816,
+          "Desc": "",
+          "Unit": "",
+          "Type": 0,
+          "MapAddr": 0
+        },
+        {
+          "No": 18,
+          "Addr": 32817,
+          "Desc": "",
+          "Unit": "",
+          "Type": 0,
+          "MapAddr": 0
+        },
+        {
+          "No": 19,
+          "Addr": 32818,
+          "Desc": "",
+          "Unit": "",
+          "Type": 0,
+          "MapAddr": 0
+        },
+        {
+          "No": 20,
+          "Addr": 32819,
+          "Desc": "",
+          "Unit": "",
+          "Type": 0,
+          "MapAddr": 0
+        },
+        {
+          "No": 21,
+          "Addr": 32820,
+          "Desc": "",
+          "Unit": "",
+          "Type": 0,
+          "MapAddr": 0
+        },
+        {
+          "No": 22,
+          "Addr": 32821,
+          "Desc": "",
+          "Unit": "",
+          "Type": 0,
+          "MapAddr": 0
+        },
+        {
+          "No": 23,
+          "Addr": 32822,
+          "Desc": "",
+          "Unit": "",
+          "Type": 0,
+          "MapAddr": 0
+        },
+        {
+          "No": 24,
+          "Addr": 32823,
+          "Desc": "",
+          "Unit": "",
+          "Type": 0,
+          "MapAddr": 0
+        },
+        {
+          "No": 25,
+          "Addr": 32824,
+          "Desc": "",
+          "Unit": "",
+          "Type": 0,
+          "MapAddr": 0
+        },
+        {
+          "No": 26,
+          "Addr": 32825,
+          "Desc": "",
+          "Unit": "",
+          "Type": 0,
+          "MapAddr": 0
+        },
+        {
+          "No": 27,
+          "Addr": 32826,
+          "Desc": "",
+          "Unit": "",
+          "Type": 0,
+          "MapAddr": 0
+        },
+        {
+          "No": 28,
+          "Addr": 32827,
+          "Desc": "",
+          "Unit": "",
+          "Type": 0,
+          "MapAddr": 0
+        },
+        {
+          "No": 29,
+          "Addr": 32828,
+          "Desc": "",
+          "Unit": "",
+          "Type": 0,
+          "MapAddr": 0
+        },
+        {
+          "No": 30,
+          "Addr": 32829,
+          "Desc": "",
+          "Unit": "",
+          "Type": 0,
+          "MapAddr": 0
+        },
+        {
+          "No": 31,
+          "Addr": 32830,
+          "Desc": "",
+          "Unit": "",
+          "Type": 0,
+          "MapAddr": 0
+        },
+        {
+          "No": 32,
+          "Addr": 32831,
+          "Desc": "",
+          "Unit": "",
+          "Type": 0,
+          "MapAddr": 0
+        },
+        {
+          "No": 33,
+          "Addr": 32832,
+          "Desc": "",
+          "Unit": "",
+          "Type": 0,
+          "MapAddr": 0
+        },
+        {
+          "No": 34,
+          "Addr": 32833,
+          "Desc": "",
+          "Unit": "",
+          "Type": 0,
+          "MapAddr": 0
+        },
+        {
+          "No": 35,
+          "Addr": 32834,
+          "Desc": "",
+          "Unit": "",
+          "Type": 0,
+          "MapAddr": 0
+        },
+        {
+          "No": 36,
+          "Addr": 32835,
+          "Desc": "",
+          "Unit": "",
+          "Type": 0,
+          "MapAddr": 0
+        },
+        {
+          "No": 37,
+          "Addr": 32836,
+          "Desc": "",
+          "Unit": "",
+          "Type": 0,
+          "MapAddr": 0
+        },
+        {
+          "No": 38,
+          "Addr": 32837,
+          "Desc": "",
+          "Unit": "",
+          "Type": 0,
+          "MapAddr": 0
+        },
+        {
+          "No": 39,
+          "Addr": 32838,
+          "Desc": "",
+          "Unit": "",
+          "Type": 0,
+          "MapAddr": 0
+        },
+        {
+          "No": 40,
+          "Addr": 32839,
+          "Desc": "",
+          "Unit": "",
+          "Type": 0,
+          "MapAddr": 0
+        },
+        {
+          "No": 41,
+          "Addr": 32840,
+          "Desc": "",
+          "Unit": "",
+          "Type": 0,
+          "MapAddr": 0
+        },
+        {
+          "No": 42,
+          "Addr": 32841,
+          "Desc": "",
+          "Unit": "",
+          "Type": 0,
+          "MapAddr": 0
+        },
+        {
+          "No": 43,
+          "Addr": 32842,
+          "Desc": "",
+          "Unit": "",
+          "Type": 0,
+          "MapAddr": 0
+        },
+        {
+          "No": 44,
+          "Addr": 32843,
+          "Desc": "",
+          "Unit": "",
+          "Type": 0,
+          "MapAddr": 0
+        },
+        {
+          "No": 45,
+          "Addr": 32844,
+          "Desc": "",
+          "Unit": "",
+          "Type": 0,
+          "MapAddr": 0
+        },
+        {
+          "No": 46,
+          "Addr": 32845,
+          "Desc": "",
+          "Unit": "",
+          "Type": 0,
+          "MapAddr": 0
+        },
+        {
+          "No": 47,
+          "Addr": 32846,
+          "Desc": "",
+          "Unit": "",
+          "Type": 0,
+          "MapAddr": 0
+        },
+        {
+          "No": 48,
+          "Addr": 32847,
+          "Desc": "",
+          "Unit": "",
+          "Type": 0,
+          "MapAddr": 0
+        },
+        {
+          "No": 49,
+          "Addr": 32848,
+          "Desc": "",
+          "Unit": "",
+          "Type": 0,
+          "MapAddr": 0
+        },
+        {
+          "No": 50,
+          "Addr": 32849,
+          "Desc": "",
+          "Unit": "",
+          "Type": 0,
+          "MapAddr": 0
+        },
+        {
+          "No": 51,
+          "Addr": 32850,
+          "Desc": "",
+          "Unit": "",
+          "Type": 0,
+          "MapAddr": 0
+        },
+        {
+          "No": 52,
+          "Addr": 32851,
+          "Desc": "",
+          "Unit": "",
+          "Type": 0,
+          "MapAddr": 0
+        },
+        {
+          "No": 53,
+          "Addr": 32852,
+          "Desc": "",
+          "Unit": "",
+          "Type": 0,
+          "MapAddr": 0
+        },
+        {
+          "No": 54,
+          "Addr": 32853,
+          "Desc": "",
+          "Unit": "",
+          "Type": 0,
+          "MapAddr": 0
+        },
+        {
+          "No": 55,
+          "Addr": 32854,
+          "Desc": "",
+          "Unit": "",
+          "Type": 0,
+          "MapAddr": 0
+        },
+        {
+          "No": 56,
+          "Addr": 32855,
+          "Desc": "",
+          "Unit": "",
+          "Type": 0,
+          "MapAddr": 0
+        },
+        {
+          "No": 57,
+          "Addr": 32856,
+          "Desc": "",
+          "Unit": "",
+          "Type": 0,
+          "MapAddr": 0
+        },
+        {
+          "No": 58,
+          "Addr": 32857,
+          "Desc": "",
+          "Unit": "",
+          "Type": 0,
+          "MapAddr": 0
+        },
+        {
+          "No": 59,
+          "Addr": 32858,
+          "Desc": "",
+          "Unit": "",
+          "Type": 0,
+          "MapAddr": 0
+        },
+        {
+          "No": 60,
+          "Addr": 32859,
+          "Desc": "",
+          "Unit": "",
+          "Type": 0,
+          "MapAddr": 0
+        },
+        {
+          "No": 61,
+          "Addr": 32860,
+          "Desc": "",
+          "Unit": "",
+          "Type": 0,
+          "MapAddr": 0
+        },
+        {
+          "No": 62,
+          "Addr": 32861,
+          "Desc": "",
+          "Unit": "",
+          "Type": 0,
+          "MapAddr": 0
+        },
+        {
+          "No": 63,
+          "Addr": 32862,
+          "Desc": "",
+          "Unit": "",
+          "Type": 0,
+          "MapAddr": 0
+        },
+        {
+          "No": 64,
+          "Addr": 32863,
+          "Desc": "",
+          "Unit": "",
+          "Type": 0,
+          "MapAddr": 0
+        },
+        {
+          "No": 65,
+          "Addr": 32864,
+          "Desc": "",
+          "Unit": "",
+          "Type": 0,
+          "MapAddr": 0
+        },
+        {
+          "No": 66,
+          "Addr": 32865,
+          "Desc": "",
+          "Unit": "",
+          "Type": 0,
+          "MapAddr": 0
+        }
+      ],
+      "Actionfixed_info": []
+    }
+  ],
+  "FaultEventSubmission": [],
+  "YCDataItem": [],
+  "YXDataItem": [],
+  "YKDataItem": [],
+  "DDDataItem": []
+}

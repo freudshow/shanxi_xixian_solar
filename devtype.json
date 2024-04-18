@@ -1,0 +1,13 @@
+{
+  "MainDevType": 6,
+  "DevType": 20,
+  "SubDevEnum": 20,
+  "HardType": 2064119,
+  "ParameterTable": 42,
+  "RtdbTable": 41,
+  "UseJson": 1,
+  "EnaPowOff": 1,
+  "GPRSStyle": 0,
+  "GprsCardMode": 0,
+  "isdevMulitProtect": 1
+}

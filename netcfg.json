@@ -3,8 +3,8 @@
     {
       "mac": "192.168.88.44.55.55",
       "macChanged": 0,
-      "localIPAddr": "192.168.100.232",
-      "gateway": "192.168.100.1",
+      "localIPAddr": "192.168.1.101",
+      "gateway": "",
       "subnet": "255.255.255.0",
       "dns_server": "114.114.114.114",
       "multiNet": [
@@ -20,7 +20,7 @@
         {
           "mac": "192.168.88.44.55.55",
           "macChanged": 0,
-          "localIPAddr": "192.168.1.232",
+          "localIPAddr": "192.168.1.101",
           "gateway": "",
           "subnet": "255.255.255.0",
           "dns_server": "114.114.114.114",
